@@ -5,6 +5,7 @@ Junior Web Developer
 --------------------
 
 * 🌍  Я живу в Воронеже
+* 🖥️  [Смотрите мое портфолио](http://#)
 * ✉️  Связаться со мной [m.kotolevsky.work@gmail.com](mailto:m.kotolevsky.work@gmail.com)
 
 ### Skills

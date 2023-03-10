@@ -4,7 +4,7 @@
 Junior Web Developer
 --------------------
 
-* 👨‍💻  Смотрите [мое портфолио](http://#)
+* 👨‍💻  Смотрите [мое портфолио](https://mkotolevsky.github.io/my_portfolio/)
 * 🖥️  Смотрите [мои сертификаты](https://github.com/mkotolevsky/my_certificates)
 * 📫  Связаться со мной [m.kotolevsky.work@gmail.com](mailto:m.kotolevsky.work@gmail.com)
 
